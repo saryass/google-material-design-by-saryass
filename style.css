@@ -38,7 +38,7 @@ body {
 
 ul {
     /* border: 1px solid red; */
-    background-color: #f2f2f2;
+    background-color: red;
     height: 100vh;
     list-style: none;
     display: flex;
